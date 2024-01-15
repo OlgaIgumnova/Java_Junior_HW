@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HW1/HW1.iml" filepath="$PROJECT_DIR$/HW1/HW1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/HW2.iml" filepath="$PROJECT_DIR$/HW2/HW2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Junior_HW.iml" filepath="$PROJECT_DIR$/Java_Junior_HW.iml" />
     </modules>
   </component>
