@@ -11,8 +11,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="1" target="17" />
       <module name="HW1" target="17" />
       <module name="HW2" target="17" />
+      <module name="HW4_1" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
