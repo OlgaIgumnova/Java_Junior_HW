@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="HW2" />
         <module name="HW1" />
+        <module name="HW5" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -15,6 +16,7 @@
       <module name="HW1" target="17" />
       <module name="HW2" target="17" />
       <module name="HW4_1" target="17" />
+      <module name="HW5" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
